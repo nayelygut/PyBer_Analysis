@@ -23,6 +23,6 @@ Based on the data analysis, below are there business recommendations for Pyber:
 
 2. Encourage urban drivers to work on suburban environments when demand (fares) is lower in the urban city type. For example, in the multiple line graph we can observe a drop in weekly fares in March for the urban city type, yet fares stay consistent in suburban areas. This would help increase the average fare per driver.
 
-![](analysis/Pyber_fare_summary.png)
+![](analysis/PyBer_fare_summary.png)
 
 3. Decrease prices in rural and suburban areas for a limited time to encourage adoption of the service. 
