@@ -17,7 +17,7 @@ differences for the different city types. The city types we looked at are rural,
 
 
 ## Summary
-Based on the data analysis, below are there business recommendations for Pyber:
+Based on the data analysis, below are three business recommendations for Pyber:
 
 1. Decreasing the pool of drivers for the urban city type, and determine a maximum cap. Give priority to drivers that are consistently providing rides. This would driver average fare per driver up, and increase driver compensation and loyalty.
 
